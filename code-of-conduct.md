@@ -57,7 +57,7 @@ If a member of the community at large engages in behavior which is harassing or 
 
 If you believe someone is violating the code of conduct, please report this in a timely manner. Code of conduct violations reduce the value of the community for everyone and we take them seriously.
 
-You can file a report by emailing [linkedearth@gmail.com](mailto:linkedearth@gmail.com) or by filing out this form. The online form gives you the option to keep your report anonymous or request that we follow up with you directly. While we cannot follow up on an anonymous report, we will take appropriate action.
+You can file a report by emailing [linkedearth@gmail.com](mailto:linkedearth@gmail.com) or by filing out [this form](https://forms.gle/nHNudoJeAwqns7YB6). The online form gives you the option to keep your report anonymous or request that we follow up with you directly. While we cannot follow up on an anonymous report, we will take appropriate action.
 
 ## Periodic Review
 
