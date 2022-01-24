@@ -10,15 +10,16 @@ LinkedEarth values the safety and security of all of our members. Therefore, we 
 
 LinkedEarth is an engaged and respectful community made up of people from all over the world. Your involvement helps us to further our mission and to create an open platform that mainly serves the paleogeoscience community.
 
-LinkedEarth is dedicated to providing a respectful, harassment-free community for everyone. We do not tolerate harassment or bullying of any community member in any form. This applies equally to founders, developers, mentors, and new community members, in all spaces managed by LinkedEarth. This includes our [Discourse Forum](https://discourse.linked.earth), our Slack Workspace, our GitHub organizations, all of our online and in-person events (e.g, town halls, community hours, hackathons, development meetings), and any other forums created by the project team. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
+LinkedEarth is dedicated to providing a respectful, harassment-free community for everyone. We do not tolerate harassment or bullying of any community member in any form. This applies equally to founders, developers, mentors, and new community members, in all spaces managed by LinkedEarth. This includes our [Discourse Forum](https://discourse.linked.earth), our Slack Workspace, our GitHub organizations, all of our online and in-person events (e.g, town halls, community hours, hackathons, development meetings), and any other forums created by the project team. In addition, violations of this code outside these spaces may affect a person's eligibility to participate within them.
 
 ## Code of Conduct
 
 1. Be friendly, patient, and welcoming.
-We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to, members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, physical appearance, family status, technological or professional choices, academic discipline, religion, mental ability, and physical ability.
+We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to, members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, physical appearance, family status, technological or professional choices, academic discipline, religion, mental and physical ability.
 
 2. Be considerate and respectful.
 Your work will be used by other people, and you in turn will depend on the work of others. Any decision you take will affect users and colleagues, and you should take those consequences into account when making decisions.
+
 Remember that we're a world-wide community, and that you may be communicating with someone with a different primary language or cultural background. Not all of us will agree all the time, but disagreement is no excuse for poor behavior or poor manners. Do not insult or put down other community members. A community where people feel uncomfortable or threatened is not a productive one.
 
 3. Consider Impact vs. Intent.
