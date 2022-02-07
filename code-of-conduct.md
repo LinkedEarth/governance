@@ -25,9 +25,9 @@ Remember that we're a world-wide community, and that you may be communicating wi
 3. Consider Impact vs. Intent.
 Disagreements, both social and technical, happen all the time and LinkedEarth is no exception. People perceive their own behaviors very differently than others perceive them. What motivates one person may cause stress for another. A few steps worth remembering include the following:
 
-* Other people do not see things the same way you do, do not feel the same as you, or interpret the world the way you do. Consider different people’s perspectives on things like change, drive, structure, process, big picture, and small details.
-* Ask for feedback and listen to them.
-* Blaming each other doesn’t get us anywhere, while we can learn from mistakes to find better solutions.
+* Other people do not see things the same way you do, do not feel the same as you, nor do they interpret the world the way you do. Consider different people’s perspectives on things like change, drive, structure, process, big picture, and small details.
+* Ask for feedback and listen to it.
+* Blaming each other doesn’t get us anywhere. We can learn from mistakes to find better solutions.
 
 4. Moderate your expectations.
 Please respect that community members choose how they spend their time in the project. A thoughtful question about your expectations is preferable to demands for another person's time.
@@ -35,7 +35,7 @@ Please respect that community members choose how they spend their time in the pr
 5. A simple apology can go a long way.
 It can often de-escalate a situation, and telling someone that you are sorry is an act of empathy that doesn’t automatically imply an admission of guilt.
 
-Rather than considering this code an exhaustive list of things that you can’t do, take it in the spirit it is intended - a guide to make it easier to enrich all of us and the communities in which we participate. By embracing the following principles, guidelines and actions to follow or avoid, you will help us make LinkedEarth a welcoming and productive community. Feel free to contact the members of the leadership team at [linkedearth@gmail.com](mailto:linkedearth@gmail.com) with any questions.
+Rather than considering this code an exhaustive list of things that you can’t do, take it in the spirit it is intended: a guide to make it easier to enrich all of us and the communities in which we participate. By embracing these principles, guidelines and actions to follow or avoid, you will help us make LinkedEarth a welcoming and productive community. Feel free to contact the members of the leadership team at [linkedearth@gmail.com](mailto:linkedearth@gmail.com) with any questions.
 
 ## Forms of harrassment
 
@@ -52,7 +52,7 @@ We do not tolerate harassment or bullying of any community member in any form. F
 
 ## Consequences for Harassment and Discrimination
 
-If a member of the community at large engages in behavior which is harassing or discriminatory in any way, once the incident is reported, the LinkedEarth leadership may take any action they deem appropriate. These actions include, but are not limited to, issuing a warning, requiring an apology, or a permanent or temporary ban from some or all LinkedEarth spaces.
+If a member of the community at large engages in behavior which is harassing or discriminatory in any way, once the incident is reported, the LinkedEarth leadership may take any action they deem appropriate. These actions include, but are not limited to, issuing a warning, requiring an apology, or instituting a permanent or temporary ban from some or all LinkedEarth spaces.
 
 ## How to Report Harassment and Discrimination
 
